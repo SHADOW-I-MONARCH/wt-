@@ -1,0 +1,12 @@
+	@import url('https://fonts.googleapis.com/css2?family=Arial:wght@400;600;700&display=swap');
+	body {  
+	         color: white;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+			 background-color: black;
+			
+        }
+       .terms{
+		      color:white;
+	   }
